@@ -1,0 +1,21 @@
+{
+  "name": "zhangmazi/laravel-zacl",
+  "description": "Access Control List for Laravel 5",
+  "keywords": ["ZACL","laravel"],
+  "require": {
+    "laravel/framework": "5.1.*"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Zhangmazi\\Zacl\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "minimum-stability" : "dev",
+  "authors": [
+    {
+      "name": "zhangmazi",
+      "email": "ninja911.com@qq.com"
+    }
+  ]
+}
